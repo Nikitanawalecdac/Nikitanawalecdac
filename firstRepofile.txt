@@ -1,1 +1,10 @@
 Hey nikita...!
+
+public class NewClass{
+
+	public void mathod(){
+		
+		System.out.println("Hey");
+}
+
+}
